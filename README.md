@@ -49,7 +49,7 @@ landing-ruleforge/
 | **Landing page** del producto | Todo `index.html` |
 | **Listado de palabras clave (SEO)** | Sección *“Estrategia SEO · Palabras clave”* (`#seo`) + `<meta name="keywords">` |
 | **Pieza gráfica LinkedIn + caption** | Sección *“Campaña de Redes Sociales”* (`#campana`) |
-| **Video 8s+** | Sección *“Campaña de Redes Sociales”* (reproductor + guión/storyboard) |
+| **Video 8s+** | Sección *“Campaña de Redes Sociales”* (reproductor + detalles de la pieza) |
 | **Herramientas Utilizadas** | Sección *“Herramientas Utilizadas”* (`#herramientas`) |
 
 ---
@@ -73,29 +73,31 @@ landing-ruleforge/
 
 ---
 
-## 🎬 Guión del video (8 s)
+## 🎬 Video de lanzamiento
 
-| Tiempo | Escena | Texto en pantalla |
-|---|---|---|
-| 0–2 s | Miles de transacciones fluyendo (caos visual) | *“Millones de transacciones. ¿Cómo las monitoreas?”* |
-| 2–4 s | Analista abrumado creando reglas a mano | *“Crearlas manualmente toma semanas.”* |
-| 4–6 s | Aparece RuleForge AI y genera reglas solo | *“Ahora la IA lo hace por ti.”* |
-| 6–8 s | Dashboard limpio + alertas precisas + logo | *“RuleForge AI · Solicita una demo.”* |
+Pieza audiovisual breve para anunciar el lanzamiento en redes sociales: del monitoreo
+transaccional manual a las reglas generadas por Inteligencia Artificial, listas para producción.
 
-> Música corporativa/tech. El video de lanzamiento ya está integrado en `assets/video/ruleforge-teaser.mp4`.
-> Herramientas sugeridas: CapCut / Canva / Runway / Pika · banco: Pexels, Pixabay.
+- **Mensaje clave:** «El monitoreo transaccional acaba de evolucionar».
+- **Canales:** LinkedIn · Instagram · X (Twitter).
+- **CTA:** Solicita una demo.
+
+> El video ya está integrado en `assets/video/ruleforge-teaser.mp4`.
+> Generado con IA generativa (3 iteraciones) y editado en Clipchamp.
 
 ---
 
 ## 🛠️ Herramientas utilizadas
 
-| Componente | Herramientas | Rol de la IA |
-|---|---|---|
-| Landing (código y diseño) | HTML5, CSS3, JavaScript · Figma | Claude — estructura, copy y código |
-| Pieza gráfica LinkedIn | Canva / Adobe Express · SVG | DALL·E / Midjourney |
-| Video | CapCut / Canva · Pexels, Pixabay | Runway / Pika |
-| Contenido / copy | Editor de texto | Claude / ChatGPT |
-| SEO | Google Keyword Planner · Ubersuggest | Clustering de keywords |
+| Tarea | Herramientas |
+|---|---|
+| Desarrollo y optimización del sitio (HTML, CSS, JS) | HTML5 · CSS3 · JavaScript · Git / GitHub · Claude |
+| Diseño de piezas para LinkedIn | Canva |
+| Redacción y optimización del copy | Claude + ChatGPT |
+| Generación de prompts para IA | Claude |
+| Generación de videos | IA generativa (3 iteraciones) |
+| Edición de video | Clipchamp |
+| Investigación de palabras clave SEO | SEO.com + Google Trends |
 
 ---
 

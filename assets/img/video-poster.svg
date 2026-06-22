@@ -1,0 +1,25 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Video de lanzamiento de RuleForge AI">
+  <defs>
+    <linearGradient id="vp-bg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C2A4A"/>
+      <stop offset="1" stop-color="#121A2F"/>
+    </linearGradient>
+    <linearGradient id="vp-grad" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#36CE83"/>
+      <stop offset="1" stop-color="#12925A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#vp-bg)"/>
+  <!-- grid -->
+  <g stroke="#ffffff" stroke-opacity="0.05">
+    <path d="M0 120h1280M0 240h1280M0 360h1280M0 480h1280M0 600h1280"/>
+    <path d="M160 0v720M320 0v720M480 0v720M640 0v720M800 0v720M960 0v720M1120 0v720"/>
+  </g>
+  <!-- play button -->
+  <circle cx="640" cy="320" r="64" fill="url(#vp-grad)"/>
+  <path d="M620 290l46 30-46 30z" fill="#fff"/>
+  <!-- text -->
+  <text x="640" y="470" text-anchor="middle" font-family="'Plus Jakarta Sans', Segoe UI, sans-serif" font-size="46" font-weight="800" fill="#ffffff">Video de lanzamiento · RuleForge AI</text>
+  <text x="640" y="520" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="24" fill="#B9C2DA">Reglas de monitoreo transaccional creadas con IA</text>
+  <text x="640" y="630" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="18" fill="#36CE83" letter-spacing="2">PLACEHOLDER · REEMPLAZAR CON EL VIDEO FINAL (8s+)</text>
+</svg>
